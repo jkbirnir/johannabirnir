@@ -8,24 +8,13 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 
 ## Monographs
 
-::: column-body
-My most recent book (with Nil Satana) [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) examines the relationship between identity (ethnicity and religion) and minority peaceful and violent political mobilization.
-:::
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/Alternatives.png){width="100"} | My most recent book (with Nil Satana) [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) examines the relationship between identity (ethnicity and religion) and minority peaceful and violent political mobilization. |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\vspace{-2cm}
-::: column-margin
-![](images/Alternatives.png){width="100"}
-:::
-
-\vspace{5cm}
-
-::: column-body
-My first book: [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state.
-:::
-
-::: column-margin
-![](images/EEPolitics.png){width="100"}
-:::
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/EEPolitics.png){width="100"} | My first book: [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Edited Volumes
 
