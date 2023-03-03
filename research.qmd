@@ -4,15 +4,9 @@ title: "Research"
 
 [CV](files/Birnir_CV.pdf)
 
-I study the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and I have done extensive fieldwork in the Andes, South-East Europe and Indonesia. Below you can find some more information about my:
+I study the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and I have done extensive fieldwork in the Andes, South-East Europe and Indonesia. Below you can find some more information about my published work and working papers.
 
-**Monographs** @sec-Monographs
-
-**Articles** @sec-Articles 
-
-**Edited volumes** @sec-Edited_Volumes
-
-## Monographs {#sec-Monographs}
+## Monographs 
 
 My most recent book (with Nil Satana) [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1\_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3)
 
@@ -20,14 +14,20 @@ My most recent book (with Nil Satana) [Alternatives in Mobilization: Ethnicity, 
 
 examines the relationship between identity (ethnicity and religion) and minority peaceful and violent political mobilization.
 
-My first book [Ethnic Electoral Politics 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) 
+My first book: [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) 
 
-![](images/EEPolitics.png){width=100}
 
-examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. 
+![](images/EEPolitics.png){width=100} examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. 
 
-## Articles  {#sec-Articles}
 
-My articles on identity and politics are published in numerous academic journals including the American Political Science Review, American Journal of Political Science, Comparative Political Studies, Journal of Peace Research, Journal of Conflict Resolution, Party Politics, Latin American Research Review , Studies in Comparative International Development, and Journal of Global Security Studies.* Her research has been supported by the National Science Foundation, The National Consortium for the Study of Terrorism and Responses to Terrorism, Folke Bernadotte Academy and the GlobalReligion Research Initiative  among others. 
 
-## Edited Volumes {#sec-Edited_Volumes}
+
+## Edited Volumes 
+
+## Articles  
+
+My articles on identity and politics are published in numerous academic journals including the American Political Science Review, American Journal of Political Science, Comparative Political Studies, Journal of Peace Research, Journal of Conflict Resolution, Party Politics, Latin American Research Review , Studies in Comparative International Development, and Journal of Global Security Studies.* Her research has been supported by the National Science Foundation, The National Consortium for the Study of Terrorism and Responses to Terrorism, Folke Bernadotte Academy and the GlobalReligion Research Initiative among others.
+
+## Work in progress
+### Book ms
+### Working papers
