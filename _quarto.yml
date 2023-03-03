@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: Jóhanna K Birnir
+  navbar:
+    background: maroon
+    foreground: white
+    left:
+      - text: "Home"
+        href: index.qmd #href	Link to file contained with the project or external URL.
+      - text: "Research"
+        href: research.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Personal"
+        href: personal.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
+

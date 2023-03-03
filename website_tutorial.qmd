@@ -1,0 +1,32 @@
+---
+title: "website_tutorial"
+author: "Birnir"
+---
+
+# Overview
+
+In this tutorial we are going to build a basic website in quarto and host it on github.
+
+You can find indepth information on the [quarto](https://quarto.org/docs/websites/) page.
+
+# Setup
+
+Create a quarto website project in quarto.
+
+New Project\>New Directory\>Quarto Website
+
+Pick a folder where you will keep your website documents. You will now see the following documents in your files space.
+
+![Files](images/1.png)
+
+The files you are seeing are:
+
+A yml file that ["config file that provides website options as well as defaults for HTML documents created within the site"](https://quarto.org/docs/websites/).  For instance, this file when created specifies the default theme for the page that willbe rendered.  The default is cosmo:
+
+"format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true"
+    
+If you don't like cosmo you can pick a different [theme](https://quarto.org/docs/output-formats/html-themes.html)
