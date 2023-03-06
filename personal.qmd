@@ -1,19 +1,18 @@
 ---
-title: "Personal"
+title: ""
 ---
 
  ["All art is sculpture"](https://johannahel.ga/cv/).
 
 # Photography
 
-In 2013 I completed Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu)
+2013 Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu)
 
 Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums),
 more coming.  
 
-# Mixed media/Encaustic image transfer
+# Mixed media
 
-![Las mujeres](images/IMG_6341.jpeg){width=300}
+![Las mujeres, Print and encaustic image transfer](images/IMG_6341.jpeg){width=300}
 
-# Drawing/Watercolor
-# Printing
+# Single media
