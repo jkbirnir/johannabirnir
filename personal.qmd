@@ -13,13 +13,20 @@ Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums), m
 
 # Mixed media
 
-| Las Mujeres                   | Strákarnir                |
-|-------------------------|------------------------|
-| ![](images/art1.jpeg) | ![](images/art2.jpg) |
+| Las Mujeres (print and encaustic image transfer) | Strákarnir (watercolor and encaustic image transfer ) |
+|--------------------------------------------------|-------------------------------------------------------|
+| ![](images/art1.jpeg)                            | ![](images/art2.jpg)                                  |
 
 # Single media
 
-|                    |                   |
-|------------------------|------------------------|
+| print                | print                |
+|----------------------|----------------------|
 | ![](images/art4.jpg) | ![](images/art3.jpg) |
-| ![](images/art5.jpg) |                        |
+
+| batik stamp/encaustic | ink                  |
+|-----------------------|----------------------|
+| ![](images/art6.jpg)  | ![](images/art7.jpg) |
+
+| watercolor           |     |
+|----------------------|-----|
+| ![](images/art5.jpg) |     |
