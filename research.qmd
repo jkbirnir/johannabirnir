@@ -106,6 +106,29 @@ International Development. 39(3):3-28.
 
 ### Book ms
 
-### Working papers
+Intersectional identity: Ethnicity, religion and gender. 
+
+### Papers
+
+“Gender effects in online interactions: Results from a large-scale natural experiment.”
+(with Tristan Botelho and David Waguespack) Under review.
+
+“AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time
+Series Data.” (with *Henry Overos, Roman Hlatky, *Ojashwi Pathak, *Jordan Dewar,
+Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under
+review.
+
+“Gender and violence in a virtual world.” (with David Waguespack and *Eric Dunford).
+ilcss working paper.
+
+“Geo-AMAR and ethnic group territorial concentration.” (with *Pavel CoronadoCastellanos). Working paper.
+
+“Gender across the world: Indonesia” (with David Waguespack and *Henry Overos).
+Data collection in progress.
 
 ### Funding proposals
+
+“Studies in Comparative Anti-Racism (SCAR)”. With CoPIs: Ernesto Calvo (U. of
+Maryland), Marcus Johnson (U. of Maryland), Margrét Bjarnadóttir (U. Of Maryland),
+David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu
+(UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
