@@ -5,7 +5,7 @@ tbl-colwidths: [25,75] #see https://quarto.org/docs/authoring/tables.html specif
 
 ## [CV](files/Birnir_CV.pdf)
 
-I study the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and I have done extensive fieldwork in the Andes, South-East Europe and Indonesia. Below you can find some more information about my published work and working papers.
+I study the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and I have done extensive fieldwork in the Andes, South-East Europe and Indonesia. Below you can find some more information about my published work and work in progress.
 
 ## Monographs
 
@@ -29,12 +29,16 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 
 ## Articles
 
-[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C) (with Brancati and Idlbi) 2023. American Political Science Review.
+[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023.  (With Brancati and Idlbi) American Political Science Review.
+-see also:
+- Political Violence at a Glance
+- The Conversation
+- NPR
 
-[The Politics of Co-optation: Ethnopolitical Minority Organizations and Authoritarian Elections in the Middle East.](https://www.tandfonline.com/doi/full/10.1080/17449057.2020.1853916) 2021.(with *Agatha Hultquist and Victor Asal). Ethnopolitics.  20(2): 216-243. 
+[The Politics of Co-optation: Ethnopolitical Minority Organizations and Authoritarian Elections in the Middle East.](https://www.tandfonline.com/doi/full/10.1080/17449057.2020.1853916) 2021.(With *Agatha Hultquist and Victor Asal). Ethnopolitics.  20(2): 216-243. 
 
-“Cultural Imprinting, Institutions, and the Organization of New Firms.” (With David
-Waguespack and *Eric Dunford). Strategy Science.
+[Cultural Imprinting, Institutions, and the Organization of New Firms.](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018.  (With David Waguespack and *Eric Dunford). Strategy Science.
+
 2018 “Voting in the Shadow of Violence: Violence and Electoral Politics in Peru.” (With
 Anita Gohdes). Journal of Global Security Studies. 3(2): 181–197.
 
