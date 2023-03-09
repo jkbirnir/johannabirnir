@@ -13,7 +13,7 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------------|-------------------------------------------|
-| ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minority peaceful and violent political mobilization. |
+| ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minorityviolent and peaceful political mobilization. |
 
 |                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------------------|-------------------------------------|
@@ -29,33 +29,54 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 
 ## Articles
 
-[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023.  (With Brancati and Idlbi) American Political Science Review.
--see also:
-- Political Violence at a Glance
-- The Conversation
+[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023.  (With Brancati and Idlbi) The American Political Science Review.
+
+See also:
+
+- [The Conversation: COVID-19 restrictions unexpectedly reduced Islamic State violence – political science experts explain why](https://theconversation.com/covid-19-restrictions-unexpectedly-reduced-islamic-state-violence-political-science-experts-explain-why-198269)
+
+- [Political Violence at a Glance: Has Isis made gains as a result of the pandemic?](https://politicalviolenceataglance.org/2021/06/28/has-isis-made-gains-as-a-result-of-the-pandemic/)
+
 - NPR
 
 [The Politics of Co-optation: Ethnopolitical Minority Organizations and Authoritarian Elections in the Middle East.](https://www.tandfonline.com/doi/full/10.1080/17449057.2020.1853916) 2021.(With *Agatha Hultquist and Victor Asal). Ethnopolitics.  20(2): 216-243. 
 
 [Cultural Imprinting, Institutions, and the Organization of New Firms.](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018.  (With David Waguespack and *Eric Dunford). Strategy Science.
 
-2018 “Voting in the Shadow of Violence: Violence and Electoral Politics in Peru.” (With
+See also: Harvard Business Review
+
+[Voting in the Shadow of Violence: Violence and Electoral Politics in Peru.](https://academic-oup-com.proxy-um.researchport.umd.edu/jogss/article/3/2/181/4964795?login=true&token=) 2018. (With
 Anita Gohdes). Journal of Global Security Studies. 3(2): 181–197.
 
-“Introducing the AMAR (All Minorities at Risk Data.” (With David Laitin; Jonathan
+See also: 
+
+- [Political Violence at a Glance: Understanding violence in the context of elections](https://politicalviolenceataglance.org/2018/04/16/understanding-insurgent-violence-in-the-context-of-elections/)
+
+[Introducing the AMAR (All Minorities at Risk Data.](https://journals-sagepub-com.proxy-um.researchport.umd.edu/doi/full/10.1177/0022002717719974) 2018. (With David Laitin; Jonathan
 Wilkenfeld; David Waguespack; *Agatha Hultquist; Ted Gurr). Journal of Conflict
 Resolution. 62(1):203-226.
-2017 “Ethnicity and Conflict” (Guest editor special issue on the state of the field
+
+
+[Ethnicity and Conflict.](https://www-tandfonline-com.proxy-um.researchport.umd.edu/doi/full/10.1080/17449057.2016.1235873?casa_token=g4B6JHSvCUQAAAAA:t-uQ4OWbkQ8OmkpEcd1qj9q2CpfptRVkEZ05Mw_-P--1q9WCSdJV_KHc2Jje3RDZeAnk58eYJWrPBw) 2017.(Guest editor special issue on the state of the field
 with Erika Forsberg and Christian Davenport), Ethnopolitics. 16(1).
-2015 “Socially Relevant Ethnic Groups, Ethnic Structure and AMAR” (with Jonathan
+
+
+ [Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals-sagepub-com.proxy-um.researchport.umd.edu/doi/full/10.1177/0022343314536915) 2015. (with Jonathan
 Wilkenfeld, James Fearon, David Laitin, Ted Gurr, Stephen Saideman, Dawn Brancati,
 Amy Pate and *Agatha Hultquist.) Journal of Peace Research. 52:105-109.
+
+
 2014 “A Voice in the Process: A Cross-national Look at Ethnic Inclusion and Economic
 Growth in the World.” (with *Eric Dunford). Development. 57(2):55-64.
+
+
 2013 “Religion and Legislative Coalitions.” (With *Nil Seda Şatana.) Comparative Political
 Studies. 46(1):3-30.
+
 2013 “Religion, Legislative Coalitions and Terrorism.” (With *Nil Seda Şatana and *Molly
 Inman) Terrorism and Political Violence. 25(1):29-52.
+
+
 2011 "Economic Policy and Relevant Ethnic Groups.” (With David Waguespack).
 Party Politics. 17(2): 243-260.
 2010 "Where are the Disgruntled Voters? Testing the Voter-Parties Relationship Implication of
