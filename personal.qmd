@@ -7,14 +7,14 @@ tbl-colwidths: [50,50]
 
 # Photography
 
-2013 Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu)
+2013 I finished a Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu)
 
-Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums), more coming.
+Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 
 # Mixed media
 
 | Las Mujeres (print and encaustic image transfer) | Strákarnir (watercolor and encaustic image transfer ) |
-|--------------------------------------------------|-------------------------------------------------------|
+|----------------------------------|--------------------------------------|
 | ![](images/art1.jpeg)                            | ![](images/art2.jpg)                                  |
 
 # Single media
