@@ -2,6 +2,6 @@
 title: "Teaching"
 ---
 
-I teach a variety of courses on methods and identity. For more information about each class see.
+I teach a variety of courses on identity and courses about methods. For more information about each class see below.
 
-GVPT729B
+[GVPT729B: Applied Social Data Science](https://github.com/jkbirnir/GVPT729B)
