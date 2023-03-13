@@ -7,21 +7,21 @@ tbl-colwidths: [50,50]
 
 # Photography
 
-I finished a Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu) in 2013.
+Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu) in 2013.
 
 Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 
 # Mixed media
 
-| Mujeres y el mundo (print and encaustic image transfer) | Strákarnir (watercolor and encaustic image transfer ) |
+| Mujeres y el mundo (print/encaustic image transfer) | Strákarnir (watercolor/encaustic image transfer ) |
 |----------------------------------|--------------------------------------|
-| ![](images/art1.jpeg)                                   | ![](images/art2.jpg)                                  |
+| ![](images/art1.jpeg)                               | ![](images/art2.jpg)                              |
 
 # Single media
 
-| print                | print                |
-|----------------------|----------------------|
-| ![](images/art4.jpg) | ![](images/art3.jpg) |
+| print                | Bið að heilsa (print) |
+|----------------------|-----------------------|
+| ![](images/art4.jpg) | ![](images/art3.jpg)  |
 
 | batik stamp/encaustic | ink                  |
 |-----------------------|----------------------|
