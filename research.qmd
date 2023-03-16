@@ -2,6 +2,15 @@
 title: ""
 tbl-colwidths: [25,75] #see https://quarto.org/docs/authoring/tables.html specifying table column widths
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LPJSR1NJ6X');
+</script>
 
 ## [CV](files/Birnir_CV.pdf)
 

@@ -2,6 +2,16 @@
 title: ""
 tbl-colwidths: [50,50]
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LPJSR1NJ6X');
+</script>
+
 
 ["All art is sculpture"](https://johannahel.ga/cv/).
 

@@ -2,6 +2,17 @@
 title: "Teaching"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LPJSR1NJ6X');
+</script>
+
+
 I teach a variety of courses on identity and courses about methods. For more information about each class see below.
 
 [GVPT729B: Applied Social Data Science](https://jkbirnir.github.io/GVPT729B/)
