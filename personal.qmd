@@ -37,9 +37,9 @@ Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 |-----------------------|-----|
 | ![](images/art8.jpg)  |     |
 
-| print                | Bið að heilsa (print) |
-|----------------------|-----------------------|
-| ![](images/art4.jpg) | ![](images/art3.jpg)  |
+| RG Ribbon (ink print) | Bið að heilsa (ink print) |
+|-----------------------|---------------------------|
+| ![](images/art4.jpg)  | ![](images/art3.jpg)      |
 
 | batik stamp/encaustic | ink                  |
 |-----------------------|----------------------|
