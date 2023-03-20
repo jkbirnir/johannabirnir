@@ -28,14 +28,14 @@ Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 # Mixed media
 
 | Mujeres y el mundo (print/encaustic image transfer) | Strákarnir (watercolor/encaustic image transfer ) |
-|-----------------------------------------------------|---------------------------------------------------|
+|----------------------------------|--------------------------------------|
 | ![](images/art1.jpeg)                               | ![](images/art2.jpg)                              |
 
 # Single media
 
-| temporary (print plate) |     |
-|-------------------------|-----|
-| ![](images/art8.jpg)    |     |
+| temporary (ink plate) |     |
+|-----------------------|-----|
+| ![](images/art8.jpg)  |     |
 
 | print                | Bið að heilsa (print) |
 |----------------------|-----------------------|
