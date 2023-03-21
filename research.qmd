@@ -26,7 +26,7 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 
 |                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------------------|-------------------------------------|
-| ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. *Selected reviews:* [Jenne. 2008;](https://www.cambridge.org/core/journals/slavic-review/article/ethnicity-and-electoral-politics-by-johanna-kristin-birnir-cambridge-eng-cambridge-university-press-2007-xv-279-pp-appendixes-notes-bibliography-index-figures-tables-maps-8500-hard-bound/DFBABA9036DAF455D54AA55626BD2EB0) [Pushkar. 2008;](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/ethnicity-and-electoral-politics-johanna-kristin-birnir-new-york-cambridge-university-press-2007-pp-xv-279/7BA4B91071480BE5712A09655C514585) [Ishiyama. 2008;](https://journals.sagepub.com/doi/pdf/10.1177/0010414007308533) [Erdem, E. 2008;](https://www.cambridge.org/core/journals/review-of-politics/article/ethnics-of-voting-johanna-kristin-birnir-ethnicity-and-electoral-politics-new-york-cambridge-university-press-2007-pp-xv-279-8500/1A088E6AF4930018AF145E8B34FEA797) [Bleich. 2008;](https://www.jstor.org/stable/20202961) [Karakas-Keles. 2009;](https://www.tandfonline.com/doi/abs/10.1080/13537110802715237?journalCode=fnep20)
+| ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. *Select reviews:* [Jenne. 2008;](https://www.cambridge.org/core/journals/slavic-review/article/ethnicity-and-electoral-politics-by-johanna-kristin-birnir-cambridge-eng-cambridge-university-press-2007-xv-279-pp-appendixes-notes-bibliography-index-figures-tables-maps-8500-hard-bound/DFBABA9036DAF455D54AA55626BD2EB0) [Pushkar. 2008;](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/ethnicity-and-electoral-politics-johanna-kristin-birnir-new-york-cambridge-university-press-2007-pp-xv-279/7BA4B91071480BE5712A09655C514585) [Ishiyama. 2008;](https://journals.sagepub.com/doi/pdf/10.1177/0010414007308533) [Erdem, E. 2008;](https://www.cambridge.org/core/journals/review-of-politics/article/ethnics-of-voting-johanna-kristin-birnir-ethnicity-and-electoral-politics-new-york-cambridge-university-press-2007-pp-xv-279-8500/1A088E6AF4930018AF145E8B34FEA797) [Bleich. 2008;](https://www.jstor.org/stable/20202961) [Karakas-Keles. 2009;](https://www.tandfonline.com/doi/abs/10.1080/13537110802715237?journalCode=fnep20)
 
 
 ## Edited Volumes
@@ -123,16 +123,16 @@ Intersectional identity: Ethnicity, religion and gender.
 (with Tristan Botelho and David Waguespack) Under review.
 
 “AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time
-Series Data.” (with *Henry Overos, Roman Hlatky, *Ojashwi Pathak, *Jordan Dewar,
+Series Data.” (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar,
 Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under
 review.
 
-“Gender and violence in a virtual world.” (with David Waguespack and *Eric Dunford).
+“Gender and violence in a virtual world.” (with David Waguespack and Eric Dunford).
 ilcss working paper.
 
-“Geo-AMAR and ethnic group territorial concentration.” (with *Pavel CoronadoCastellanos). Working paper.
+“Geo-AMAR and ethnic group territorial concentration.” (with Pavel CoronadoCastellanos). Working paper.
 
-“Gender across the world: Indonesia” (with David Waguespack and *Henry Overos).
+“Gender across the world: Indonesia” (with David Waguespack and Henry Overos).
 Data collection in progress.
 
 ### Funding proposals
