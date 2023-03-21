@@ -16,3 +16,17 @@ title: "Teaching"
 I teach a variety of courses on identity and courses about methods. For more information about each class see below.
 
 [GVPT729B: Applied Social Data Science](https://jkbirnir.github.io/GVPT729B/)
+
+GVPT201: Research Methods. [Syllabus 2023](files/GVPT_201_S23.pdf)
+
+GVPT888I: Identity Politics.
+
+GVPT359I: Identity Politics: Constructing a Gender Inclusive Society
+
+GVPT301: Identity and Conflict. (Cultural Competence Gen ed. Course)
+
+GVPT888T: Political Violence
+
+GVPT831: Formal theory
+
+
