@@ -22,11 +22,23 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------------|-------------------------------------------|
-| ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minorityviolent and peaceful political mobilization. |
+| ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minorityviolent and peaceful political mobilization. 
+
+See also:
+
+- [START Events](https://www.start.umd.edu/alternatives-mobilization-ethnicity-religion-and-political-conflict)
+
+- [Stories Beneath the Shell](https://umdsbs.wordpress.com/2022/12/06/johanna-birnir-discusses-her-book-alternatives-in-mobilization-ethnicity-religion-and-political-conflict/)
+
+|
 
 |                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------------------|-------------------------------------|
-| ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. *Select reviews:* [Jenne. 2008;](https://www.cambridge.org/core/journals/slavic-review/article/ethnicity-and-electoral-politics-by-johanna-kristin-birnir-cambridge-eng-cambridge-university-press-2007-xv-279-pp-appendixes-notes-bibliography-index-figures-tables-maps-8500-hard-bound/DFBABA9036DAF455D54AA55626BD2EB0) [Pushkar. 2008;](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/ethnicity-and-electoral-politics-johanna-kristin-birnir-new-york-cambridge-university-press-2007-pp-xv-279/7BA4B91071480BE5712A09655C514585) [Ishiyama. 2008;](https://journals.sagepub.com/doi/pdf/10.1177/0010414007308533) [Erdem, E. 2008;](https://www.cambridge.org/core/journals/review-of-politics/article/ethnics-of-voting-johanna-kristin-birnir-ethnicity-and-electoral-politics-new-york-cambridge-university-press-2007-pp-xv-279-8500/1A088E6AF4930018AF145E8B34FEA797) [Bleich. 2008;](https://www.jstor.org/stable/20202961) [Karakas-Keles. 2009;](https://www.tandfonline.com/doi/abs/10.1080/13537110802715237?journalCode=fnep20)
+| ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. 
+
+See also:
+
+- Select reviews: [Jenne. 2008;](https://www.cambridge.org/core/journals/slavic-review/article/ethnicity-and-electoral-politics-by-johanna-kristin-birnir-cambridge-eng-cambridge-university-press-2007-xv-279-pp-appendixes-notes-bibliography-index-figures-tables-maps-8500-hard-bound/DFBABA9036DAF455D54AA55626BD2EB0) [Pushkar. 2008;](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/ethnicity-and-electoral-politics-johanna-kristin-birnir-new-york-cambridge-university-press-2007-pp-xv-279/7BA4B91071480BE5712A09655C514585) [Ishiyama. 2008;](https://journals.sagepub.com/doi/pdf/10.1177/0010414007308533) [Erdem, E. 2008;](https://www.cambridge.org/core/journals/review-of-politics/article/ethnics-of-voting-johanna-kristin-birnir-ethnicity-and-electoral-politics-new-york-cambridge-university-press-2007-pp-xv-279-8500/1A088E6AF4930018AF145E8B34FEA797) [Bleich. 2008;](https://www.jstor.org/stable/20202961) [Karakas-Keles. 2009;](https://www.tandfonline.com/doi/abs/10.1080/13537110802715237?journalCode=fnep20)
 
 
 ## Edited Volumes
@@ -38,6 +50,8 @@ I study the effect of identity (ethnicity, religion, gender) on contentious poli
 | 
 
 ## Articles
+
+The Challenger’s Winning Coalition: Mobilization of Religion in Ethnic Civil War. Forthcoming. (With Nil Satana). *The Journal of Politics.*
 
 [Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023.  (With Brancati and Idlbi) The *American Political Science Review.*
 
@@ -76,7 +90,7 @@ with Erika Forsberg and Christian Davenport), *Ethnopolitics.* 16(1).
 
 See also:
 
-- [The Monkey Cage:Is diversity inherently dangerous?](https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/16/isdiversity-inherently-dangerous/?utm_term=.0cdf5659011b)
+- [The Monkey Cage: Is diversity inherently dangerous?](https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/16/isdiversity-inherently-dangerous/?utm_term=.0cdf5659011b)
 
  [Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals.sagepub.com/doi/full/10.1177/0022343314536915) 2015. (with Jonathan
 Wilkenfeld, James Fearon, David Laitin, Ted Gurr, Stephen Saideman, Dawn Brancati,
