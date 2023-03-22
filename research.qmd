@@ -138,8 +138,8 @@ Intersectional identity: Ethnicity, religion and gender.
 “Gender effects in online interactions: Results from a large-scale natural experiment.”
 (with Tristan Botelho and David Waguespack) Under review.
 
-“AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time
-Series Data.” (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar,
+AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time
+Series Data. (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar,
 Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under
 review.
 
