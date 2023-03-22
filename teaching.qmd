@@ -30,3 +30,11 @@ GVPT888T: Political Violence
 GVPT831: Formal theory
 
 
+
+
+
+© 2023 Jóhanna K Birnir.
+
+::: {style="font-size: 75%;"}
+Built with [Quarto](https://quarto.org/), hosted on [Github](https://github.com/jkbirnir), use [Google Analytics](https://analytics.withgoogle.com/) to track visits. See Google´s [Privacy Statement.](https://policies.google.com/privacy)
+:::

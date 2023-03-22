@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "My name is Jóhanna Kristín Birnir and I am a Professor of Government and Politics at the University of Maryland. Through the links on this page you can find information about my research and the data projects I have developed, my teaching with some tutorials, and some on my hobbies. Just note that these pages are under construction and I’m slowly adding things - so some patience is required. Thank you.\n\n\n\nPhoto credit: Edison Meliala\n\n\n© 2023 Jóhanna K Birnir.\nThese web pages were built in quarto, hosted on github and use Google Analytics to track visits. See Google´s Privacy Statement."
+    "text": "My name is Jóhanna Kristín Birnir and I am a Professor of Government and Politics at the University of Maryland. Through the links on this page you can find information about my research and the data projects I have developed, my teaching with some tutorials, and some on my hobbies. Just note that these pages are under construction and I’m slowly adding things - so some patience is required. Thank you.\n\n\n\nPhoto credit: Edison Meliala\n\n\n© 2023 Jóhanna K Birnir.\n\nBuilt with Quarto, hosted on Github, use Google Analytics to track visits. See Google´s Privacy Statement."
   },
   {
     "objectID": "research.html",
@@ -18,7 +18,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach a variety of courses on identity and courses about methods. For more information about each class see below.\nGVPT729B: Applied Social Data Science\nGVPT201: Research Methods.\nGVPT888I: Identity Politics.\nGVPT359I: Identity Politics: Constructing a Gender Inclusive Society\nGVPT301: Identity and Conflict. (Cultural Competence Gen ed. Course)\nGVPT888T: Political Violence\nGVPT831: Formal theory"
+    "text": "I teach a variety of courses on identity and courses about methods. For more information about each class see below.\nGVPT729B: Applied Social Data Science\nGVPT201: Research Methods.\nGVPT888I: Identity Politics.\nGVPT359I: Identity Politics: Constructing a Gender Inclusive Society\nGVPT301: Identity and Conflict. (Cultural Competence Gen ed. Course)\nGVPT888T: Political Violence\nGVPT831: Formal theory\n© 2023 Jóhanna K Birnir.\n\nBuilt with Quarto, hosted on Github, use Google Analytics to track visits. See Google´s Privacy Statement."
   },
   {
     "objectID": "data.html",
@@ -32,7 +32,7 @@
     "href": "personal.html",
     "title": "Jóhanna K Birnir",
     "section": "",
-    "text": "“All art is sculpture”.\n\nPhotography\nCertification in Photography from the New York Institute of Photography in 2013.\nSome of my projects are here.\n\n\nMixed media\n\n\n\n\n\n\n\nMujeres y el mundo (print/encaustic image transfer)\nStrákarnir (watercolor/encaustic image transfer )\n\n\n\n\n\n\n\n\n\n\n\nSingle media\n\n\n\n\n\n\n\ntemporary (ink plate)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRG Ribbon (ink print)\nBið að heilsa (ink print)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbatik stamp/encaustic\nink\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwatercolor"
+    "text": "“All art is sculpture”.\n\nPhotography\nCertification in Photography from the New York Institute of Photography in 2013.\nSome of my projects are here.\n\n\nMixed media\n\n\n\n\n\n\n\nMujeres y el mundo (print/encaustic image transfer)\nStrákarnir (watercolor/encaustic image transfer )\n\n\n\n\n\n\n\n\n\n\n\nSingle media\n\n\n\n\n\n\n\ntemporary (ink plate)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRG Ribbon (ink print)\nBið að heilsa (ink print)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbatik stamp/encaustic\nink\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwatercolor\n\n\n\n\n\n\n\n\n\n\n© 2023 Jóhanna K Birnir.\n\nBuilt with Quarto, hosted on Github, use Google Analytics to track visits. See Google´s Privacy Statement."
   },
   {
     "objectID": "research.html#books",
@@ -88,6 +88,6 @@
     "href": "research.html#work-in-progress",
     "title": "Jóhanna K Birnir",
     "section": "Work in progress",
-    "text": "Work in progress\n\nBook ms\nIntersectional identity: Ethnicity, religion and gender.\n\n\nPapers\n“Gender effects in online interactions: Results from a large-scale natural experiment.” (with Tristan Botelho and David Waguespack) Under review.\n“AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time Series Data.” (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar, Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under review.\n“Gender and violence in a virtual world.” (with David Waguespack and Eric Dunford). ilcss working paper.\n“Geo-AMAR and ethnic group territorial concentration.” (with Pavel CoronadoCastellanos). Working paper.\n“Gender across the world: Indonesia” (with David Waguespack and Henry Overos). Data collection in progress.\n\n\nFunding proposals\n“Studies in Comparative Anti-Racism (SCAR)”. With CoPIs: Ernesto Calvo (U. of Maryland), Marcus Johnson (U. of Maryland), Margrét Bjarnadóttir (U. Of Maryland), David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.)."
+    "text": "Work in progress\n\nBook ms\nIntersectional identity: Ethnicity, religion and gender.\n\n\nPapers\n“Gender effects in online interactions: Results from a large-scale natural experiment.” (with Tristan Botelho and David Waguespack) Under review.\n“AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time Series Data.” (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar, Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under review.\n“Gender and violence in a virtual world.” (with David Waguespack and Eric Dunford). ilcss working paper.\n“Geo-AMAR and ethnic group territorial concentration.” (with Pavel CoronadoCastellanos). Working paper.\n“Gender across the world: Indonesia” (with David Waguespack and Henry Overos). Data collection in progress.\n\n\nFunding proposals\n“Studies in Comparative Anti-Racism (SCAR)”. With CoPIs: Ernesto Calvo (U. of Maryland), Marcus Johnson (U. of Maryland), Margrét Bjarnadóttir (U. Of Maryland), David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).\n© 2023 Jóhanna K Birnir.\n\nBuilt with Quarto, hosted on Github, use Google Analytics to track visits. See Google´s Privacy Statement."
   }
 ]
