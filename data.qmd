@@ -1,13 +1,13 @@
 ---
-title: "Data"
+title: "Data Projects"
 ---
 
 For more information on my data projects see:
+
+[SCAR](<https://jkbirnir.github.io/SCAR/>)
 
 AMAR
 
 A-Religion
 
 GeoAMAR
-
-SCAR
