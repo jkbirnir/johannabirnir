@@ -49,9 +49,9 @@ Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 |----------------------|-----|
 | ![](images/art5.jpg) |     |
 
-# Art and AI
+# Art and AI 
 
-| original   |
+| original (watercolor)  |
 |-----------------------|-----|
 | ![](images/art9.jpg)    |
 
