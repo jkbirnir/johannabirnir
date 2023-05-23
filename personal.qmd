@@ -51,25 +51,9 @@ Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 
 # Art and AI 
 
-| original (watercolor)  |
-|-----------------------|-----|
-| ![](images/art9.jpg)    |
+![watercolor and dalle-e-2 variations](images/art18.png)
 
-| dalle-e-2 variation 1  |   dalle-e-2 variation 2   |
-|-----------------------|-----|
-| ![](images/art17.png)  |  ![](images/art10.png)    |
 
-| dalle-e-2 variation 3 | dalle-e-2 variation 4  |
-|-----------------------|---------------------------|
-| ![](images/art11.png)  | ![](images/art12.png)      |
-
-| dalle-e-2 variation 5  |dalle-e-2 variation 6                  |
-|-----------------------|----------------------|
-| ![](images/art13.png)  | ![](images/art14.png) |
-
-| dalle-e-2 variation 7         | dalle-e-2 variation 8      |
-|----------------------|-----|
-| ![](images/art15.png) |    ![](images/art16.png)  |
 
 
 
