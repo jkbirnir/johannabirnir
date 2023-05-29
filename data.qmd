@@ -6,10 +6,10 @@ comments: false
 
 For more information on my data projects see:
 
-[AMAR](<https://jkbirnir.github.io/AMAR/>)
+[AMAR](https://github.com/jkbirnir/AMAR)
 
 A-Religion
 
 GeoAMAR
 
-[SCAR](<https://jkbirnir.github.io/SCAR/>)
+[SCAR](https://jkbirnir.github.io/SCAR/)
