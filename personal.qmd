@@ -3,7 +3,7 @@ title: ""
 tbl-colwidths: [50,50]
 comments:
     giscus:
-      repo: quarto-dev/quarto-web
+      repo: jkbirnir/johannabirnir
 ---
 
 <!-- Google tag (gtag.js) -->
