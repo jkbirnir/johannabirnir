@@ -19,6 +19,10 @@ website:
       - text: "Personal"
         href: personal.qmd
 
+comments:
+    giscus:
+      repo: jkbirnir/johannabirnir
+      
 format:
   html:
     theme: simplex

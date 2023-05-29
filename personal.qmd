@@ -1,9 +1,6 @@
 ---
 title: ""
 tbl-colwidths: [50,50]
-comments:
-    giscus:
-      repo: jkbirnir/johannabirnir
 ---
 
 <!-- Google tag (gtag.js) -->

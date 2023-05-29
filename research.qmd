@@ -1,6 +1,8 @@
 ---
 title: ""
 tbl-colwidths: [25,75] #see https://quarto.org/docs/authoring/tables.html specifying table column widths
+
+comments: false
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
@@ -153,8 +155,7 @@ Data collection in progress.
 
 ### Funding proposals
 
-“Studies in Comparative Anti-Racism (SCAR)”. With CoPIs: Ernesto Calvo (U. of
-Maryland), Marcus Johnson (U. of Maryland), Margrét Bjarnadóttir (U. Of Maryland),
+“Studies in Comparative Anti-Racism (SCAR)”. With CoPIs: Marcus Johnson (U. of Maryland),
 David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu
 (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
 

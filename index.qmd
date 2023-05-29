@@ -1,5 +1,7 @@
 ---
 title: "Welcome"
+
+comments: false
 ---
 
 <!-- Google tag (gtag.js) -->
