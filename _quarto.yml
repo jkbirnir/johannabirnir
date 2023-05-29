@@ -19,10 +19,12 @@ website:
       - text: "Personal"
         href: personal.qmd
 
-comments:
+  comments:
     giscus:
       repo: jkbirnir/johannabirnir
-      
+      loading: lazy
+      theme: dark 
+
 format:
   html:
     theme: simplex
