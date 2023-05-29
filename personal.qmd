@@ -1,6 +1,9 @@
 ---
 title: ""
 tbl-colwidths: [50,50]
+comments:
+    giscus:
+      repo: quarto-dev/quarto-web
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -19,17 +22,23 @@ tbl-colwidths: [50,50]
 ```
 ["All art is sculpture"](https://johannahel.ga/cv/).
 
+Please feel free to comment - I'm always interested in hearing what other people think about my projects :)
+
 # Photography
 
-Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu) in 2013.
+In 2013 I complete a certification in Photography from the [New York Institute of Photography](https://www.nyip.edu).
 
 Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 
 # Mixed media
 
-| Mujeres y el mundo (print/encaustic image transfer) | Strákarnir (watercolor/encaustic image transfer ) |
-|-------------------------------------|-----------------------------------|
-| ![](images/art1.jpeg)                               | ![](images/art2.jpg)                              |
+| Mujeres y el mundo (print/encaustic image transfer) |  Strákarnir (watercolor/encaustic image transfer )   |
+|-----------------------|-----|
+| ![](images/art1.jpeg)   |   ![](images/art2.jpg)   |
+
+| The Thanos effect (print/encaustic image transfer) |  |
+|-----------------------|---------------------------|
+| ![](images/art19.jpg)  |      |
 
 # Single media
 
