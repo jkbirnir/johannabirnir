@@ -19,7 +19,7 @@ tbl-colwidths: [50,50]
 ```
 ["All art is sculpture"](https://johannahel.ga/cv/).
 
-Feel free to leave a comment at the bottom of the page - I'm always interested in hearing what other people think about my projects :)
+Comments at the bottom of the page.
 
 # Photography
 
