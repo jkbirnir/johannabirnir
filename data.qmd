@@ -6,7 +6,7 @@ comments: false
 
 For more information on my data projects see:
 
-[AMAR](https://jkbirnir.github.io/AMAR/)
+[SCAR](https://jkbirnir.github.io/SCAR/)
 
 A-Religion
 
