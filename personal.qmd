@@ -33,10 +33,11 @@ Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
 |-----------------------|-----|
 | ![](images/art1.jpeg)   |   ![](images/art2.jpg)   |
 
-| The Thanos effect (print/encaustic image transfer) | 
-Another C (print/encaustic image embedding)|
-|-----------------------|---------------------------|
-| ![](images/art19.jpg)  |  ![](images/art20.jpg)     |
+| The Thanos effect (print/encaustic image transfer) |  Another C (print/encaustic image embedding )   |
+|-----------------------|-----|
+| ![](images/art19.jpg)   |   ![](images/art20.jpg)   |
+
+
 
 # Single media
 
