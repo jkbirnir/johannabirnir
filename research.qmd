@@ -4,8 +4,13 @@ tbl-colwidths: [25,75] #see https://quarto.org/docs/authoring/tables.html specif
 
 comments: false
 ---
+
 <!-- Google tag (gtag.js) -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
+```
+```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -13,37 +18,34 @@ comments: false
 
   gtag('config', 'G-LPJSR1NJ6X');
 </script>
-
+```
 ## [CV](files/Birnir_CV.pdf)
 
 I study the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and I have done extensive fieldwork in the Andes, South-East Europe and Indonesia. Below you can find some more information about my published work and work in progress.
 
 ## Monographs
 
-
-
-|                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----------------------------|-------------------------------------------|
-| ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minorityviolent and peaceful political mobilization. 
+| ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minorityviolent and peaceful political mobilization. |
 
 See also:
 
-- [MPOSS](https://www.youtube.com/watch?v=NkdOgErxyOk)
+-   [MPOSS](https://www.youtube.com/watch?v=NkdOgErxyOk)
 
-- [START Events](https://www.start.umd.edu/alternatives-mobilization-ethnicity-religion-and-political-conflict)
+-   [START Events](https://www.start.umd.edu/alternatives-mobilization-ethnicity-religion-and-political-conflict)
 
-- [Stories Beneath the Shell](https://umdsbs.wordpress.com/2022/12/06/johanna-birnir-discusses-her-book-alternatives-in-mobilization-ethnicity-religion-and-political-conflict/)
+-   [Stories Beneath the Shell](https://umdsbs.wordpress.com/2022/12/06/johanna-birnir-discusses-her-book-alternatives-in-mobilization-ethnicity-religion-and-political-conflict/)
 
-|
+| 
 
 |                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------------------|-------------------------------------|
-| ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. 
+| ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. |
 
 See also:
 
-- Select reviews: [Jenne. 2008;](https://www.cambridge.org/core/journals/slavic-review/article/ethnicity-and-electoral-politics-by-johanna-kristin-birnir-cambridge-eng-cambridge-university-press-2007-xv-279-pp-appendixes-notes-bibliography-index-figures-tables-maps-8500-hard-bound/DFBABA9036DAF455D54AA55626BD2EB0) [Pushkar. 2008;](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/ethnicity-and-electoral-politics-johanna-kristin-birnir-new-york-cambridge-university-press-2007-pp-xv-279/7BA4B91071480BE5712A09655C514585) [Ishiyama. 2008;](https://journals.sagepub.com/doi/pdf/10.1177/0010414007308533) [Erdem, E. 2008;](https://www.cambridge.org/core/journals/review-of-politics/article/ethnics-of-voting-johanna-kristin-birnir-ethnicity-and-electoral-politics-new-york-cambridge-university-press-2007-pp-xv-279-8500/1A088E6AF4930018AF145E8B34FEA797) [Bleich. 2008;](https://www.jstor.org/stable/20202961) [Karakas-Keles. 2009;](https://www.tandfonline.com/doi/abs/10.1080/13537110802715237?journalCode=fnep20)
-
+-   Select reviews: [Jenne. 2008;](https://www.cambridge.org/core/journals/slavic-review/article/ethnicity-and-electoral-politics-by-johanna-kristin-birnir-cambridge-eng-cambridge-university-press-2007-xv-279-pp-appendixes-notes-bibliography-index-figures-tables-maps-8500-hard-bound/DFBABA9036DAF455D54AA55626BD2EB0) [Pushkar. 2008;](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/ethnicity-and-electoral-politics-johanna-kristin-birnir-new-york-cambridge-university-press-2007-pp-xv-279/7BA4B91071480BE5712A09655C514585) [Ishiyama. 2008;](https://journals.sagepub.com/doi/pdf/10.1177/0010414007308533) [Erdem, E. 2008;](https://www.cambridge.org/core/journals/review-of-politics/article/ethnics-of-voting-johanna-kristin-birnir-ethnicity-and-electoral-politics-new-york-cambridge-university-press-2007-pp-xv-279-8500/1A088E6AF4930018AF145E8B34FEA797) [Bleich. 2008;](https://www.jstor.org/stable/20202961) [Karakas-Keles. 2009;](https://www.tandfonline.com/doi/abs/10.1080/13537110802715237?journalCode=fnep20)
 
 ## Edited Volumes
 
@@ -55,77 +57,63 @@ See also:
 
 ## Articles
 
-The Challenger’s Winning Coalition: Mobilization of Religion in Ethnic Civil War. Forthcoming. (With Nil Satana). *The Journal of Politics.*
+[The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War](https://www.journals.uchicago.edu/doi/10.1086/723972). 2023. (With Satana) *The Journal of Politics.*
 
-[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023.  (With Brancati and Idlbi) The *American Political Science Review.*
-
-See also:
-
-- [Political Science Now](https://politicalsciencenow.com/lockdowns-for-public-health-can-also-reduce-violence/)
-
-- [The Conversation: COVID-19 restrictions unexpectedly reduced Islamic State violence – political science experts explain why](https://theconversation.com/covid-19-restrictions-unexpectedly-reduced-islamic-state-violence-political-science-experts-explain-why-198269)
-
-- [Political Violence at a Glance: Has Isis made gains as a result of the pandemic?](https://politicalviolenceataglance.org/2021/06/28/has-isis-made-gains-as-a-result-of-the-pandemic/)
-
-- NPR
-
-[The Politics of Co-optation: Ethnopolitical Minority Organizations and Authoritarian Elections in the Middle East.](https://www.tandfonline.com/doi/full/10.1080/17449057.2020.1853916) 2021.(With Agatha Hultquist and Victor Asal). *Ethnopolitics.*  20(2): 216-243. 
-
-[Cultural Imprinting, Institutions, and the Organization of New Firms.](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018.  (With David Waguespack and Eric Dunford). *Strategy Science.*
-
-See also: 
-
-- [Harvard Business Review: Research: Where a Founder Is from Affects How They Structure Their Company.](https://hbr.org/2019/09/research-where-a-founder-is-from-affects-how-they-structure-their-company)
-
-[Voting in the Shadow of Violence: Violence and Electoral Politics in Peru.](https://academic.oup.com/jogss/article/3/2/181/4964795?login=true&token=) 2018. (With
-Anita Gohdes). *Journal of Global Security Studies.* 3(2): 181–197.
-
-See also: 
-
-- [Political Violence at a Glance: Understanding violence in the context of elections](https://politicalviolenceataglance.org/2018/04/16/understanding-insurgent-violence-in-the-context-of-elections/)
-
-[Introducing the AMAR (All Minorities at Risk Data.](https://journals.sagepub.com/doi/full/10.1177/0022002717719974) 2018. (With David Laitin; Jonathan
-Wilkenfeld; David Waguespack; Agatha Hultquist; Ted Gurr). *Journal of Conflict
-Resolution.* 62(1):203-226.
-
-
-[Ethnicity and Conflict.](https://www.tandfonline.com/doi/full/10.1080/17449057.2016.1235873?casa_token=g4B6JHSvCUQAAAAA:t-uQ4OWbkQ8OmkpEcd1qj9q2CpfptRVkEZ05Mw_-P--1q9WCSdJV_KHc2Jje3RDZeAnk58eYJWrPBw) 2017.(Guest editor special issue on the state of the field
-with Erika Forsberg and Christian Davenport), *Ethnopolitics.* 16(1).
+[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023. (With Brancati and Idlbi) The *American Political Science Review.*
 
 See also:
 
-- [The Monkey Cage: Is diversity inherently dangerous?](https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/16/isdiversity-inherently-dangerous/?utm_term=.0cdf5659011b)
+-   [Political Science Now](https://politicalsciencenow.com/lockdowns-for-public-health-can-also-reduce-violence/)
 
- [Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals.sagepub.com/doi/full/10.1177/0022343314536915) 2015. (with Jonathan
-Wilkenfeld, James Fearon, David Laitin, Ted Gurr, Stephen Saideman, Dawn Brancati,
-Amy Pate and Agatha Hultquist.) *Journal of Peace Research.* 52:105-109.
+-   [The Conversation: COVID-19 restrictions unexpectedly reduced Islamic State violence -- political science experts explain why](https://theconversation.com/covid-19-restrictions-unexpectedly-reduced-islamic-state-violence-political-science-experts-explain-why-198269)
 
+-   [Political Violence at a Glance: Has Isis made gains as a result of the pandemic?](https://politicalviolenceataglance.org/2021/06/28/has-isis-made-gains-as-a-result-of-the-pandemic/)
 
-[A Voice in the Process: A Cross-national Look at Ethnic Inclusion and Economic Growth in the World.](https://link.springer.com/article/10.1057/dev.2014.39) 2014. (with Eric Dunford). *Development.* 57(2):55-64.
+-   NPR
 
+[The Politics of Co-optation: Ethnopolitical Minority Organizations and Authoritarian Elections in the Middle East.](https://www.tandfonline.com/doi/full/10.1080/17449057.2020.1853916) 2021. (With Hultquist and Asal). *Ethnopolitics.* 20(2): 216-243.
 
-[Religion and Coalition Politics.](https://journals.sagepub.com/doi/pdf/10.1177/0010414012453029) 2013 (With Nil Seda Şatana.) *Comparative Political
-Studies.* 46(1):3-30.
+[Cultural Imprinting, Institutions, and the Organization of New Firms.](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018. (With Waguespack and Dunford). *Strategy Science.*
 
-[Religion, Government Coalitions and Terrorism.](https://www.tandfonline.com/doi/full/10.1080/09546553.2013.733250) 2013. (With Nil Seda Şatana and Molly
-Inman). Special Issue on Violence, Elections, and Party Politics. *Terrorism and Political Violence.* 25(1):29-52.
+See also:
 
-[Economic Policy and Relevant Ethnic Groups.](https://journals.sagepub.com/doi/abs/10.1177/1354068810391149) 2011 (With David Waguespack).
-*Party Politics.* 17(2): 243-260.
+-   [Harvard Business Review: Research: Where a Founder Is from Affects How They Structure Their Company.](https://hbr.org/2019/09/research-where-a-founder-is-from-affects-how-they-structure-their-company)
+
+[Voting in the Shadow of Violence: Violence and Electoral Politics in Peru.](https://academic.oup.com/jogss/article/3/2/181/4964795?login=true&token=) 2018. (With Anita Gohdes). *Journal of Global Security Studies.* 3(2): 181--197.
+
+See also:
+
+-   [Political Violence at a Glance: Understanding violence in the context of elections](https://politicalviolenceataglance.org/2018/04/16/understanding-insurgent-violence-in-the-context-of-elections/)
+
+[Introducing the AMAR (All Minorities at Risk Data.](https://journals.sagepub.com/doi/full/10.1177/0022002717719974) 2018. (With Laitin;  Wilkenfeld; Waguespack;  Hultquist;  Gurr). *Journal of Conflict Resolution.* 62(1):203-226.
+
+[Ethnicity and Conflict.](https://www.tandfonline.com/doi/full/10.1080/17449057.2016.1235873?casa_token=g4B6JHSvCUQAAAAA:t-uQ4OWbkQ8OmkpEcd1qj9q2CpfptRVkEZ05Mw_-P--1q9WCSdJV_KHc2Jje3RDZeAnk58eYJWrPBw) 2017.(Guest editor special issue on the state of the field with Forsberg and Davenport), *Ethnopolitics.* 16(1).
+
+See also:
+
+-   [The Monkey Cage: Is diversity inherently dangerous?](https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/16/isdiversity-inherently-dangerous/?utm_term=.0cdf5659011b)
+
+[Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals.sagepub.com/doi/full/10.1177/0022343314536915) 2015. (with Wilkenfeld, Fearon, Laitin, Gurr,  Saideman, Brancati, Pate and Hultquist.) *Journal of Peace Research.* 52:105-109.
+
+[A Voice in the Process: A Cross-national Look at Ethnic Inclusion and Economic Growth in the World.](https://link.springer.com/article/10.1057/dev.2014.39) 2014. (with Dunford). *Development.* 57(2):55-64.
+
+[Religion and Coalition Politics.](https://journals.sagepub.com/doi/pdf/10.1177/0010414012453029) 2013 (With Şatana.) *Comparative Political Studies.* 46(1):3-30.
+
+[Religion, Government Coalitions and Terrorism.](https://www.tandfonline.com/doi/full/10.1080/09546553.2013.733250) 2013. (With Şatana and Inman). Special Issue on Violence, Elections, and Party Politics. *Terrorism and Political Violence.* 25(1):29-52.
+
+[Economic Policy and Relevant Ethnic Groups.](https://journals.sagepub.com/doi/abs/10.1177/1354068810391149) 2011 (With Waguespack). *Party Politics.* 17(2): 243-260.
 
 [Where are the Disgruntled Voters? Testing the Voter-Parties Relationship Implication of the Cartel Party Model.](https://journals.sagepub.com/doi/abs/10.1177/1354068809339540) 2010 *Party Politics.* Vol. 16(1): 29-49.
 
-
 [Divergence in Diversity? The Dissimilar Effects of Cleavages on Electoral Politics in New Democracies.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2007.00270.x) 2007. *American Journal of Political Science.* 51(3):602-619.
 
-[Disunity in Diversity: Party System Fragmentation and the Dynamic Effect of Ethnic Heterogeneity on Latin American Legislatures.](https://www.cambridge.org/core/journals/latin-american-research-review/article/disunity-in-diversity-party-system-fragmentation-and-the-dynamic-effect-of-ethnic-heterogeneity-on-latin-american-legislatures/F3B1049540FCA889A746FF287F97E554) 2007. (With Donna Lee Van Cott). *Latin American Research Review.* Vol. 42(1):97-123.
+[Disunity in Diversity: Party System Fragmentation and the Dynamic Effect of Ethnic Heterogeneity on Latin American Legislatures.](https://www.cambridge.org/core/journals/latin-american-research-review/article/disunity-in-diversity-party-system-fragmentation-and-the-dynamic-effect-of-ethnic-heterogeneity-on-latin-american-legislatures/F3B1049540FCA889A746FF287F97E554) 2007. (With Van Cott). *Latin American Research Review.* Vol. 42(1):97-123.
 
-[Public Venture Capital and Party Institutionalization.](https://journals.sagepub.com/doi/pdf/10.1177/0010414005275429) 2005. *Comparative Political Studies.*
-38(8):915-938.
+[Public Venture Capital and Party Institutionalization.](https://journals.sagepub.com/doi/pdf/10.1177/0010414005275429) 2005. *Comparative Political Studies.* 38(8):915-938.
 
-[Technological Development and Political Stability: Patenting In Latin America and the Caribbean.](https://www.sciencedirect.com/science/article/pii/S0048733305001733) 2005. (with David M. Waguespack and Jeff Schroeder). *Research Policy.* 34(10):1570-1590.
+[Technological Development and Political Stability: Patenting In Latin America and the Caribbean.](https://www.sciencedirect.com/science/article/pii/S0048733305001733) 2005. (with Waguespack and Schroeder). *Research Policy.* 34(10):1570-1590.
 
-[Foreignness and the Diffusion of Ideas.](https://www.sciencedirect.com/science/article/pii/S0923474804000712) 2005. (With David M. Waguespack). *Journal of Engineering and Technology Management.* 22(1-2):31-50.
+[Foreignness and the Diffusion of Ideas.](https://www.sciencedirect.com/science/article/pii/S0923474804000712) 2005. (With Waguespack). *Journal of Engineering and Technology Management.* 22(1-2):31-50.
 
 [Stabilizing Party Systems and Excluding Segments of Society? The Effects of Formation Costs on Representation in Latin America.](https://link.springer.com/article/10.1007/BF02686280) 2004. *Studies in Comparative International Development.* 39(3):3-28.
 
@@ -133,36 +121,25 @@ Inman). Special Issue on Violence, Elections, and Party Politics. *Terrorism and
 
 ### Book ms
 
-Intersectional identity: Ethnicity, religion and gender. 
+Intersectional identity: Ethnicity, religion and gender.
 
 ### Papers
 
-“Gender effects in online interactions: Results from a large-scale natural experiment.”
-(with Tristan Botelho and David Waguespack) Under review.
+"Gender effects in online interactions: Results from a large-scale natural experiment." (with Tristan Botelho and David Waguespack) Under review.
 
-AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time
-Series Data. (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar,
-Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under
-review.
+AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time Series Data. (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar, Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under review.
 
-“Gender and violence in a virtual world.” (with David Waguespack and Eric Dunford).
-ilcss working paper.
+"Gender and violence in a virtual world." (with David Waguespack and Eric Dunford). ilcss working paper.
 
-“Geo-AMAR and ethnic group territorial concentration.” (with Pavel CoronadoCastellanos). Working paper.
+"Geo-AMAR and ethnic group territorial concentration." (with Pavel CoronadoCastellanos). Working paper.
 
-“Gender across the world: Indonesia” (with David Waguespack and Henry Overos).
-Data collection in progress.
+"Gender across the world: Indonesia" (with David Waguespack and Henry Overos). Data collection in progress.
 
 ### Funding proposals
 
-“Studies in Comparative Anti-Racism (SCAR)”. With CoPIs: Marcus Johnson (U. of Maryland),
-David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu
-(UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
+"Studies in Comparative Anti-Racism (SCAR)". With CoPIs: Marcus Johnson (U. of Maryland), David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
 
-
-
-.
-© 2023 Jóhanna K Birnir.
+. © 2023 Jóhanna K Birnir.
 
 ::: {style="font-size: 75%;"}
 Built with [Quarto](https://quarto.org/), hosted on [Github](https://github.com/jkbirnir), use [Google Analytics](https://analytics.withgoogle.com/) to track visits. See Google´s [Privacy Statement.](https://policies.google.com/privacy)
