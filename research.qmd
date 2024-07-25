@@ -37,6 +37,8 @@ See also:
 
 -   [Stories Beneath the Shell](https://umdsbs.wordpress.com/2022/12/06/johanna-birnir-discusses-her-book-alternatives-in-mobilization-ethnicity-religion-and-political-conflict/)
 
+-   Select reviews [Toha 2023](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/alternatives-in-mobilization-ethnicity-religion-and-political-conflict-by-johanna-kristin-birnir-and-nil-seda-satana-new-york-cambridge-university-press-2022-200p-9999-cloth/D69A246C4DC50077B0D3773D4E9A875F), [Tarr 2023](https://academic.oup.com/psq/article/138/3/448/7218942)
+
 | 
 
 |                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -57,9 +59,11 @@ See also:
 
 ## Articles
 
-[The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War](https://www.journals.uchicago.edu/doi/10.1086/723972). 2023. (With Satana) *The Journal of Politics.*
+[Coding with the machines: machine-assisted coding of rare event data.](https://academic.oup.com/pnasnexus/article/3/5/pgae165/7659908) 2024. (With Henry David Overos, Roman Hlatky, Ojashwi Pathak, Harriet Goers, Jordan Gouws-Dewar, Katy Smith, Keith Padraic Chew, and Amy H Liu). PNAS Nexus. 3(5):165.
 
-[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023. (With Brancati and Idlbi) The *American Political Science Review.*
+[The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War](https://www.journals.uchicago.edu/doi/10.1086/723972). 2023. (With Satana) *The Journal of Politics.* 85(4).
+
+[Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023. (With Brancati and Idlbi) The *American Political Science Review.* 117(4):1327-1343.
 
 See also:
 
@@ -127,8 +131,6 @@ Intersectional identity: Ethnicity, religion and gender.
 
 "Gender effects in online interactions: Results from a large-scale natural experiment." (with Tristan Botelho and David Waguespack) Under review.
 
-AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time Series Data. (with Henry Overos, Roman Hlatky, Ojashwi Pathak, Jordan Dewar, Keith Padraic Chew, Amy H. Liu, and Ernesto Calvo.) ilcss working paper. Under review.
-
 "Gender and violence in a virtual world." (with David Waguespack and Eric Dunford). ilcss working paper.
 
 "Geo-AMAR and ethnic group territorial concentration." (with Pavel CoronadoCastellanos). Working paper.
@@ -137,10 +139,13 @@ AMAR and the Machine: Assisted Text Analysis for Coding of Cross-Sectional Time 
 
 ### Funding proposals
 
-"Studies in Comparative Anti-Racism (SCAR)". With CoPIs: Marcus Johnson (U. of Maryland), David Waguespack (U. of Maryland). Christian Davenport (U. of Michigan), Amy Liu (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
+"Studies in Comparative Anti-Racism (SCAR)". With CoPIs: Christian Davenport (U. of Michigan), Amy Liu (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
 
-. © 2023 Jóhanna K Birnir.
+
+
+
+© 2023 Jóhanna K Birnir.
 
 ::: {style="font-size: 75%;"}
-Built with [Quarto](https://quarto.org/), hosted on [Github](https://github.com/jkbirnir), use [Google Analytics](https://analytics.withgoogle.com/) to track visits. See Google´s [Privacy Statement.](https://policies.google.com/privacy)
+Built with [Quarto](https://quarto.org/), hosted on [Github](https://github.com/jkbirnir), using [Google Analytics](https://analytics.withgoogle.com/) to track visits. See Google´s [Privacy Statement.](https://policies.google.com/privacy)
 :::

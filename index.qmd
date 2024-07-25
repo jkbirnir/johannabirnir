@@ -25,5 +25,5 @@ My name is Jóhanna Kristín Birnir and I am a Professor of Government and Polit
 © 2023 Jóhanna K Birnir.
 
 ::: {style="font-size: 75%;"}
-Built with [Quarto](https://quarto.org/), hosted on [Github](https://github.com/jkbirnir), use [Google Analytics](https://analytics.withgoogle.com/) to track visits. See Google´s [Privacy Statement.](https://policies.google.com/privacy)
+Built with [Quarto](https://quarto.org/), hosted on [Github](https://github.com/jkbirnir), using [Google Analytics](https://analytics.withgoogle.com/) to track visits. See Google´s [Privacy Statement.](https://policies.google.com/privacy)
 :::
