@@ -19,13 +19,15 @@ tbl-colwidths: [50,50]
 ```
 ["All art is sculpture"](https://johannahel.ga/cv/).
 
-Comments at the bottom of the page.
+Please leave comments at the bottom of the page.
 
 # Photography
 
-In 2013 I complete a certification in Photography from the [New York Institute of Photography](https://www.nyip.edu).
+2013. Certification in Photography from the [New York Institute of Photography](https://www.nyip.edu).
 
-Some of my projects are [here](https://www.flickr.com/photos/jkbirnir/albums).
+For a few of my projectes see  [here](https://www.flickr.com/photos/jkbirnir/albums).
+
+Below are some of my experiments with various types of media and subjects, often incorporating photographs I have taken.
 
 # Mixed media
 
