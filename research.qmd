@@ -63,6 +63,8 @@ See also:
 
 [The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War](https://www.journals.uchicago.edu/doi/10.1086/723972). 2023. (With Satana) *The Journal of Politics.* 85(4).
 
+-   [Replication files](https://github.com/jkbirnir/CWC_JOP)
+
 [Locking Down Violence: The COVID-19 Pandemic's Impact on Non-State Actor Violence](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C). 2023. (With Brancati and Idlbi) The *American Political Science Review.* 117(4):1327-1343.
 
 See also:
