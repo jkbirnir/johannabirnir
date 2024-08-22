@@ -51,13 +51,13 @@ Below are some of my experiments with various other types of media and subjects,
 |-----------------------|---------------------------|
 | ![](images/art4.jpg)  | ![](images/art3.jpg)      |
 
-| batik stamp/encaustic | ink                  |
+| bird/batik stamp and encaustic | ink                  |
 |-----------------------|----------------------|
 | ![](images/art6.jpg)  | ![](images/art7.jpg) |
 
-| watercolor           |     |
-|----------------------|-----|
-| ![](images/art5.jpg) |     |
+| Shade/watercolor     |  Dancers/watercolor  |
+|----------------------|----------------------|
+| ![](images/art5.jpg) | ![](images/art21.png)|
 
 # Art and AI 
 
