@@ -10,12 +10,11 @@ For more information on my data projects see:
 
 [A-Religion](https://jkbirnir.github.io/A-Religion/)
 
-GeoAMAR
-
 [SCAR](https://jkbirnir.github.io/SCAR/)
 
+GeoAMAR
 
-
+Indonesia Election Archive
 
 © 2023 Jóhanna K Birnir.
 
