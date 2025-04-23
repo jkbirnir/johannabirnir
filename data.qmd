@@ -14,7 +14,7 @@ For more information on my data projects see:
 
 GeoAMAR
 
-Indonesia Election Archive
+[Indonesia Election Archive](https://jkbirnir.github.io/electionhouse/)
 
 © 2023 Jóhanna K Birnir.
 
