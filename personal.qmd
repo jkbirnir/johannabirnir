@@ -8,6 +8,7 @@ tbl-colwidths: [50,50]
 ```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
 ```
+
 ```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -17,8 +18,8 @@ tbl-colwidths: [50,50]
   gtag('config', 'G-LPJSR1NJ6X');
 </script>
 ```
-["All art is sculpture"](https://johannahel.ga/cv/).
 
+["All art is sculpture"](https://johannahel.ga/cv/).
 
 # Photography
 
@@ -30,13 +31,17 @@ Below are some of my experiments with various other types of media and subjects,
 
 # Mixed media
 
+| Bird (stamp/acrylic)  | Strákarnir (image transfer/acrylic) |
+|-----------------------|-------------------------------------|
+| ![](images/art22.jpg) | ![](images/art23.jpg)               |
+
 | Mujeres y el mundo (print/encaustic image transfer) | Strákarnir (watercolor/encaustic image transfer ) |
-|--------------------------------------------------------|----------------|
-| ![](images/art1.jpeg)                               | ![](images/art2.jpg)                              |
+|----|----|
+| ![](images/art1.jpeg) | ![](images/art2.jpg) |
 
 | The Thanos effect (print/encaustic image transfer) | Another C (print/encaustic image embedding ) |
-|--------------------------------------------------------|----------------|
-| ![](images/art19.jpg)                              | ![](images/art20.jpg)                        |
+|----|----|
+| ![](images/art19.jpg) | ![](images/art20.jpg) |
 
 # Single media
 
