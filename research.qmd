@@ -10,6 +10,7 @@ comments: false
 ```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPJSR1NJ6X"></script>
 ```
+
 ```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -19,13 +20,14 @@ comments: false
   gtag('config', 'G-LPJSR1NJ6X');
 </script>
 ```
+
 ## [CV](files/Birnir_CV.pdf)
 
 I study the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and I have done extensive fieldwork in the Andes, South-East Europe and Indonesia. Below you can find some more information about my published work and work in progress.
 
 ## Monographs
 
-|                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|  |  |
 |-----------------------------|-------------------------------------------|
 | ![](images/Alternatives.png){width="150"} | [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict. 2022. Cambridge University Press](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) (with Nil Satana) examines the relationship between identity (ethnicity and religion) and minority violent and peaceful political mobilization. |
 
@@ -41,7 +43,7 @@ See also:
 
 | 
 
-|                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  |  |
 |-----------------------------------|-------------------------------------|
 | ![](images/EEPolitics.png){width="150"} | [Ethnic Electoral Politics. 2007. Cambridge University Press](https://www.amazon.com/Ethnicity-Electoral-Politics-J%C3%B3hanna-Krist%C3%ADn-ebook/dp/B0014D3T5U/ref=sr_1_1?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881738&sprefix=birnir+johanna%2Caps%2C144&sr=8-1) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state. |
 
@@ -51,7 +53,7 @@ See also:
 
 ## Edited Volumes
 
-|                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|  |  |
 |----------------------------------|--------------------------------------|
 | ![](images/Forsbergetal.png){width="150"} | [Ethnic Politics and Conflict/Violence: State of the Field and New Directions. 2018. Routledge.](https://www.amazon.com/Ethnic-Politics-Conflict-Violence-Nationalities-ebook/dp/B07S4NP7KM/ref=sr_1_4?crid=3E0QFH81ODSON&keywords=Birnir+Johanna&qid=1678107768&sprefix=birnir+johanna%2Caps%2C63&sr=8-4) (with Forsberg and Davenport) synthesizes what the field does and does not know with regard to ethnic conflict, and outlines some research directions for the future. |
 
@@ -59,7 +61,9 @@ See also:
 
 ## Articles
 
-[Coding with the machines: machine-assisted coding of rare event data.](https://academic.oup.com/pnasnexus/article/3/5/pgae165/7659908) 2024. (With Henry David Overos, Roman Hlatky, Ojashwi Pathak, Harriet Goers, Jordan Gouws-Dewar, Katy Smith, Keith Padraic Chew, and Amy H Liu). PNAS Nexus. 3(5):165.
+[The Patriarchy in the Parties: Voters, parties and women’s electoral fortunes in the 2024 legislative election in Indonesia](https://authors.elsevier.com/sd/article/S0261-3794(25)00044-7). 2025. (With Okthariza, Agustyati and Pratama). *Electoral Studies.* (95)
+
+[Coding with the machines: machine-assisted coding of rare event data.](https://academic.oup.com/pnasnexus/article/3/5/pgae165/7659908) 2024. (With Overos, Hlatky, Pathak, Goers, Gouws-Dewar, Smith, Chew, and Liu). *PNAS Nexus.* 3(5):165.
 
 [The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War](https://www.journals.uchicago.edu/doi/10.1086/723972). 2023. (With Satana) *The Journal of Politics.* 85(4).
 
@@ -91,7 +95,7 @@ See also:
 
 -   [Political Violence at a Glance: Understanding violence in the context of elections](https://politicalviolenceataglance.org/2018/04/16/understanding-insurgent-violence-in-the-context-of-elections/)
 
-[Introducing the AMAR (All Minorities at Risk Data.](https://journals.sagepub.com/doi/full/10.1177/0022002717719974) 2018. (With Laitin;  Wilkenfeld; Waguespack;  Hultquist;  Gurr). *Journal of Conflict Resolution.* 62(1):203-226.
+[Introducing the AMAR (All Minorities at Risk Data.](https://journals.sagepub.com/doi/full/10.1177/0022002717719974) 2018. (With Laitin; Wilkenfeld; Waguespack; Hultquist; Gurr). *Journal of Conflict Resolution.* 62(1):203-226.
 
 [Ethnicity and Conflict.](https://www.tandfonline.com/doi/full/10.1080/17449057.2016.1235873?casa_token=g4B6JHSvCUQAAAAA:t-uQ4OWbkQ8OmkpEcd1qj9q2CpfptRVkEZ05Mw_-P--1q9WCSdJV_KHc2Jje3RDZeAnk58eYJWrPBw) 2017.(Guest editor special issue on the state of the field with Forsberg and Davenport), *Ethnopolitics.* 16(1).
 
@@ -99,7 +103,7 @@ See also:
 
 -   [The Monkey Cage: Is diversity inherently dangerous?](https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/16/isdiversity-inherently-dangerous/?utm_term=.0cdf5659011b)
 
-[Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals.sagepub.com/doi/full/10.1177/0022343314536915) 2015. (with Wilkenfeld, Fearon, Laitin, Gurr,  Saideman, Brancati, Pate and Hultquist.) *Journal of Peace Research.* 52:105-109.
+[Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals.sagepub.com/doi/full/10.1177/0022343314536915) 2015. (with Wilkenfeld, Fearon, Laitin, Gurr, Saideman, Brancati, Pate and Hultquist.) *Journal of Peace Research.* 52:105-109.
 
 [A Voice in the Process: A Cross-national Look at Ethnic Inclusion and Economic Growth in the World.](https://link.springer.com/article/10.1057/dev.2014.39) 2014. (with Dunford). *Development.* 57(2):55-64.
 
@@ -142,9 +146,6 @@ Intersectional identity: Ethnicity, religion and gender.
 ### Funding proposals
 
 "Studies in Comparative Anti-Racism (SCAR)". With CoPIs: Christian Davenport (U. of Michigan), Amy Liu (UT. Austin), Eric McDaniel (UT. Austin), Clarence Lusane (Howard U.).
-
-
-
 
 © 2023 Jóhanna K Birnir.
 
