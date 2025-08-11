@@ -61,10 +61,11 @@ See also:
 
 ## Articles
 
-[Indonesia Election Archive: Institutions, candidates, results.] Forthcoming. (With Agustyati, Pratama, Overos, 
-Okthariza, Kholidin, Ramadhanil, and Savirani). Scientific Data.  
+[Indonesia Election Archive: Institutions, candidates, results.](https://rdcu.be/ez4sj) 2025. (With Agustyati, Pratama, Overos, Okthariza, Kholidin, Ramadhanil, and Savirani). *Scientific Data*.  
 
 -   [Archive files](https://doi.org/10.17605/OSF.IO/HJQZD)
+
+-   [See also: Opening Up the Ballot Box: A New Archive Makes Indonesian Election Data More Accessible](https://communities.springernature.com/posts/opening-up-the-ballot-box-a-new-archive-makes-indonesian-election-data-more-accessible)
 
 [The Patriarchy in the Parties: Voters, parties and women’s electoral fortunes in the 2024 legislative election in Indonesia](https://authors.elsevier.com/sd/article/S0261-3794(25)00044-7). 2025. (With Okthariza, Agustyati and Pratama). *Electoral Studies.* (95)
 
